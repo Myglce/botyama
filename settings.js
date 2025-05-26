@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6285814184672'] //['628','628'] 2 owner atau lebih
+global.owner = ['6285814184672','6285399793104'] //['628','628'] 2 owner atau lebih
 global.packname = 'ᴀʀᴋɴɪɢʜᴛ'
-global.author = '𝐌𝐲𝐚𝐜𝐥𝐞 𝐆𝐄𝐍𝐓𝐄𝐍𝐆'
-global.botname = '𝘈𝘯𝘵𝘩𝘰𝘯𝘺 𝘚𝘪𝘮𝘰𝘯'
+global.author = '𝐑𝐢𝐡𝐚𝐧 𝐆𝐄𝐍𝐓𝐄𝐍𝐆'
+global.botname = '𝐐𝐢𝐧 𝐒𝐢𝐧𝐠 𝐇𝐮𝐚𝐧𝐠'
 global.listprefix = ['+','!','/','•']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♪','◇','♧','々','〆','✚','✥','░']
 global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
